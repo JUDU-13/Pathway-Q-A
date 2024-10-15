@@ -2,8 +2,8 @@
 
 This project demonstrates how to create a Retrieval-Augmented Generation (RAG) application using [Pathway](https://github.com/pathwaycom/pathway) that provides always up-to-date knowledge to your Language Model (LLM) without the need for a separate ETL process.
 
-[![Deploy with GCP](https://pathway.com/developers/user-guide/deployment/gcp-deploy)
-[![Deploy with Render](https://pathway.com/developers/user-guide/deployment/render-deploy)
+[Deploy with GCP](https://pathway.com/developers/user-guide/deployment/gcp-deploy)
+[Deploy with Render](https://pathway.com/developers/user-guide/deployment/render-deploy)
 
 ## Features
 
